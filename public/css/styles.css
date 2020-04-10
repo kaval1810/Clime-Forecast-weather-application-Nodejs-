@@ -135,18 +135,18 @@ input[type=text]{
   cursor: pointer;
 }
 
-#message-1{
+#message-1,#message-2{
   font-family: Montserrat medium;
   font-size: 18px;
   color: white;
 }
 
-#message-2{
-
-  font-size: 18px;
-  font-family: Montserrat medium;
+.note{
+  font-family: Montserrat;
+  font-size: 12px;
   color: white;
 }
+
 
 .mapLink{
   text-decoration: none;
